@@ -9,8 +9,16 @@ body,html {
   font-family: sans-serif;
 }
 
+h3 {
+  font-size: 24px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 .5rem black;
+  padding: 30px 0 0 0;
+}
+
 .keys {
-  margin: 21% auto;
+  margin: 20% auto;
 }
 
 .keys1, .keys2 {
