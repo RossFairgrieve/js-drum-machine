@@ -17,7 +17,8 @@ body,html {
   justify-content: center;
 }
 
-.keys-2 {
+.keys-1, .keys-2 {
+  display: block;
   clear: both;
 }
 
