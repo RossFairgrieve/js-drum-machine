@@ -63,6 +63,7 @@
     if (!audio) return; // Stop function from running if non-active key is pressed
     audio.currentTime = 0; // Allow rapid button pressing
     audio.play();
+    key.classList.add('playing');
   });
 </script>
 
